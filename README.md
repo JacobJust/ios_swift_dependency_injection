@@ -5,7 +5,6 @@ Swift dependency injection is difficult compared to the possibilies in Java EE a
 
 Example of the simple tests:
 
-```
     func testRenderCells() {
         let elements: [Element] = [Element(title: "title 1", description: "description 1"),
                                    Element(title: "title 2", description: "description 2")]
@@ -18,7 +17,7 @@ Example of the simple tests:
         
         expect(self.viewController.table.numberOfRows(inSection: 0)).to(equal(2))
     }
-```
+
 
 Todo: 
  - make the injection / providing part generic, to avoid boilerplate code, when adding more services.
