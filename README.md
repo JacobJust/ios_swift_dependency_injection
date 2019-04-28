@@ -5,3 +5,4 @@ Swift dependency injection is difficult compared to the possibilies in Java EE a
 
 Todo: 
  - make the injection / providing part generic, to avoid boilerplate code, when adding more services.
+ - CI: https://travis-ci.com
