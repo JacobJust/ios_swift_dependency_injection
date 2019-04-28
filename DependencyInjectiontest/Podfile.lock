@@ -1,0 +1,34 @@
+PODS:
+  - Cuckoo (0.12.1)
+  - Nimble (8.0.1)
+  - RxBlocking (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+
+DEPENDENCIES:
+  - Cuckoo
+  - Nimble
+  - RxBlocking
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cuckoo
+    - Nimble
+    - RxBlocking
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Cuckoo: 2f10364798baa4b0d4aacabfa475249cf29977bc
+  Nimble: 45f786ae66faa9a709624227fae502db55a8bdd0
+  RxBlocking: 79413e4d916f44bb3e113c5b2cc059e36fe58910
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+
+PODFILE CHECKSUM: 6f001bf17edd281a9990ad707a401421b1e1303b
+
+COCOAPODS: 1.5.3
